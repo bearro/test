@@ -8,7 +8,7 @@ set -e
 sleep_time=2
 
 #temporary remove when want capability to re-run
-sudo rm PAC_Troubleshoot.sh* 2>/dev/null #remove previous version installed
+sudo rm tst.sh* 2>/dev/null #remove previous version installed
 
 : '
 -------ANSI color codes:-----------------------
